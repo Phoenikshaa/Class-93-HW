@@ -1,0 +1,59 @@
+#logout
+{
+	font-size: 20px; float: right; background-color:#d5b1f0; color: #191961;
+}
+
+.input_div_room_page
+{
+	width: 80%;
+}
+
+.input_div_message_page
+{
+	position: fixed;bottom: 0px;width: 100%;background: rgba(255,255,255,0.8);
+}
+
+.input_div_message_page label
+{
+	color: black;
+}
+
+.input_div_message_page label
+{
+	color: black;
+}
+.input_div_message_page #msg
+{
+	width: 80%;
+}
+.input_div_message_page button
+{
+	margin-top: 15px;
+	width: 50%; 
+}
+
+.logo
+{
+	width: 100px;margin-top: 30px;border-radius: 50px; height: 100px;
+}
+
+.header
+{
+	color: white;font-family: 'Yeon Sung';font-size: 45px;letter-spacing: 10px;margin-top: 80px;
+}
+
+body
+{
+    background-image: linear-gradient(to right top, #88e3db, #11cced, #1cabed, #105ce0, #1139ed); 
+}
+
+html, body
+{
+  height: 100%;
+  margin: 0;
+}
+
+#output
+{
+	padding: 10px; width:80%;background: rgba(255,255,255,0.8);border-radius: 15px;
+}
